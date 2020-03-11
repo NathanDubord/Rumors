@@ -7,8 +7,8 @@ function App() {
   return (
     <Button variant="contained" color="primary">
       Hello World
-    </Button>
-  );
+    </Button>,
+  )
 }
 
 export default App;
