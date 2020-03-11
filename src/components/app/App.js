@@ -1,8 +1,7 @@
 import React from 'react';
 import Button from '@material-ui/core/Button';
 
-import logo from '../../assets/images/logo.svg';
-import './App.css';
+import './App.scss';
 
 function App() {
   return (
