@@ -1,0 +1,13 @@
+.header-toolbar {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	background-color: #fffffc;
+	padding-top: 24px;
+	padding-bottom: 24px;
+}
+
+	.header-toolbar-logo {
+		max-height: 100px;
+		max-width: 100px;
+	}
